@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunk_jibe_ecom_compass_docs=self.webpackChunk_jibe_ecom_compass_docs||[]).push([[280],{310:s=>{s.exports=JSON.parse('{"label":"hello","permalink":"/jibe-docs/blog/tags/hello","allTagsPath":"/jibe-docs/blog/tags","count":2}')}}]);
