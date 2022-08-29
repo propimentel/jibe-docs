@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_jibe_ecom_compass_docs=self.webpackChunk_jibe_ecom_compass_docs||[]).push([[642],{4469:s=>{s.exports=JSON.parse('{"name":"docusaurus-plugin-content-blog","id":"default"}')}}]);

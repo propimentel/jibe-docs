@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunk_jibe_ecom_compass_docs=self.webpackChunk_jibe_ecom_compass_docs||[]).push([[851],{7616:s=>{s.exports=JSON.parse('{"label":"docusaurus","permalink":"/ds/blog/tags/docusaurus","allTagsPath":"/ds/blog/tags","count":4}')}}]);
